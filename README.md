@@ -28,7 +28,7 @@
 
 
 目录结构：
-
+```
 auto_ball_picker/
 ├── OpenMV_Code/ # OpenMV端代码 (MicroPython)
 │ ├── main.py # 主程序（模式切换/视觉识别/PID控制）
@@ -47,7 +47,7 @@ auto_ball_picker/
 ├── 基于STM32的自动导球小车设计.pdf
 ├── 自动导球小车实物图.png
 └── 自动导球小车演示视频.mp4
-
+```
 硬件连接：
 
 OpenMV引脚分配
